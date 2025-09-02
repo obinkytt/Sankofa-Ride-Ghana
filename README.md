@@ -1,1 +1,1 @@
-# Your Softgen App
+# Your Sankofa Ghana Ride App
